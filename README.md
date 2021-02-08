@@ -18,5 +18,5 @@ In this repository, I have listed a few of the questions I've encountered and ho
 8. Hyperparameter Tuning 
 
 Other Helpful Guides: 
-https://github.com/kojino/120-Data-Science-Interview-Questions
-https://medium.com/@manilwagle/probability-and-simulation-6a28fc1f1cb0
+* https://github.com/kojino/120-Data-Science-Interview-Questions
+* https://medium.com/@manilwagle/probability-and-simulation-6a28fc1f1cb0
