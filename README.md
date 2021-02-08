@@ -1,6 +1,8 @@
 # Coding Prep
 
-Simulations were of the most common interview based questions I've encountered while interviewing for Data Scientist roles 
+I interviewed with 10 different companies for a Data Scientist role. 
+
+Simulations were some of the most common interview based questions I've encountered while interviewing for Data Scientist roles 
 
 A lot of those required the use of numpy and random to simulate distributions, as well as calculate probabilities. Some also required the development of simple classifiers using only 1 variable. 
 
