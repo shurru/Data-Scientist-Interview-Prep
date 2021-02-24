@@ -22,5 +22,5 @@ Other Helpful Guides:
 * https://medium.com/@manilwagle/probability-and-simulation-6a28fc1f1cb0
 * https://github.com/andrewekhalel/MLQuestions
 * <b> StatQuest with Josh Starmer </b> 
-  For Machine Learning https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
-  For Statistics basics https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9
+  - For Machine Learning https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
+  - For Statistics basics https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9
