@@ -22,7 +22,7 @@ This is one of the more common issues encountered in data science, particularly 
   - You can also calculate the F-score which allows an understanding of the tradeoff between precision and recall
   - Investigating the ROC curve and Area under curve (AUC-ROC) also visualize the algorithms' ability to discrimate the positive class from the rest of the data.   The AUC-ROC is a single-value metric which summarizes the quality of a classifier.
 
-![image]('MLmetrics.png')
+![image](https://github.com/shurru/Data-Scientist-Interview-Prep/blob/main/MLmetrics.png)
 
 
 
