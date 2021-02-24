@@ -1,6 +1,6 @@
-# Coding Prep
+# Preparing for Data Science Interviews
 
-I interviewed with 10 different companies for a Data Scientist role. Simulations were some of the most common interview based questions I've encountered while interviewing for Data Scientist roles 
+I have interviewed with several different companies for a Data Scientist role. Simulations were some of the most common interview based questions I've encountered while interviewing for Data Scientist roles 
 
 A lot of these interviews required the use of numpy and random to simulate distributions, as well as calculate probabilities. Some also required the development of simple classifiers using only 1 variable. 
 
@@ -14,7 +14,7 @@ In this repository, I have listed a few of the questions I've encountered and ho
 4. Basics of statistics- Mean, Median, Mode, S.D., Standard error of mean, Confidence Intervals 
 5. Hypothesis Testing - t-test implementations, ANOVA
 6. A/B testing: very helpful resource (https://github.com/RobbieGeoghegan/AB_Testing/blob/master/AB_Testing.ipynb) 
-7. Machine Learning classifiers: when to use different classifiers
+7. Machine Learning classifiers: when to use different classifiers, overfitting, regularization, data imbalance
 8. Hyperparameter Tuning 
 
 Other Helpful Guides: 
