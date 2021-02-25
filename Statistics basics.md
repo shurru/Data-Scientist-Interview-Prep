@@ -40,10 +40,11 @@ Explains the basics of a distribution including:
 	- Stat tests which allow visual inspection : significant differences become easier 
 	- If you have no overlap between the CI of two distributions, there is a significant difference!! 
 	- Width of an interval:
-		○ Calculate Standard error: (SD/ sqrt (N) )
-		○ CI width can be 1.96* standard errors : this is our <b> margin of error </b> 
-		○ This will include the true proportion 95% of the time 
-		○ Width decreases as you increase N 
-		○ Increases as you increase the SD 
-		○ Increases as your confidence level increases 
-		○ Increases as your significance level decreases 
+		- Calculate Standard error: (SD/ sqrt (N) )
+		- CI width can be 1.96* standard errors : this is our <b> margin of error </b> 
+		- This will include the true proportion 95% of the time 
+		- The width of your CI changes with several factors 
+			- Decreases as you increase N 
+			- Increases as you increase the SD 
+			- Increases as your confidence level increases 
+			- Increases as your significance level decreases 
