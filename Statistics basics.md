@@ -48,3 +48,31 @@ Explains the basics of a distribution including:
 			- Increases as you increase the SD 
 			- Increases as your confidence level increases 
 			- Increases as your significance level decreases 
+
+4. <b< Hypothesis testing </b> 
+- The process of hypothesis testing involves setting up two competing hypotheses, the null hypothesis and the alternate hypothesis.
+- You begin with a Null Hypothesis (H0) 
+	- This H0 is almost always that there is NO difference between the groups that you're comparing 
+	- Calculate a p-value to determine if we can reject the null hypothesis 
+	- Does NOT need any preliminary data
+	- Common tests: T-testing 
+- Alternate Hypothesis
+	- We don't always know which alternate hypothesis we can choose 
+	- Often will depend on your null hypothesis
+- For more information: https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_hypothesistest-means-proportions/bs704_hypothesistest-means-proportions_print.html
+5. Sample size determination 
+- Power: 
+	- probability we can correctly reject the null hypothesis : p(not getting a false negative)  
+	- If we have small sample size with a lot of overlap: we have low power 
+	- Can be increased by increasing sample size 
+
+- Power Analysis
+	- Determines sample size so we can CORRECTLY reject the null hypothesis
+	- Affected by the overlap and sample size 
+	- Estimated means closest to population means 
+
+	1. Determine a power (0.8 is commonly used) 
+	2. Determine threshold for significance (alpha= 0.05) 
+	3. Overlap between distributions -> Calculate effect size : estimated diff in means / pooled estimated S.D
+			i. Pooled S.D = sqrt (sd1^2+sd2^2/2)
+
